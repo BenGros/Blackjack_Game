@@ -1,1 +1,1 @@
-#Personal JavaFX project created with Intellij IDEA
+# Personal JavaFX project created with Intellij IDEA
